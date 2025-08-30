@@ -1,2 +1,2 @@
 Model,Accuracy,Precision,Recall,F1-Score
-Random Forest Classifier,0.5833333333333334,0.6,0.5,0.5454545454545454
+Logistic Regression,0.6,0.4375,0.5,0.4666666666666667
