@@ -14,6 +14,16 @@ Realistic hospital context: The dataset simulates actual hospital workflows rath
 Transferability to NHI: While not specific to South Africa, the dataset allows us to model demand forecasting methods that would apply once local NHI datasets become available. It is suitable for demonstrating predictive modelling approaches that align with Task One.
 
 
+
+## Live Dashboard
+
+Check out the interactive dashboard here:
+
+[View NHI Healthcare Demand Dashboard](https://nhi-project-quddd7i4l5n7daj8vgez5n.streamlit.app/)
+
+
+
+
 ## 📑 Conclusion
 
 Our project successfully built a multi-relational healthcare demand prediction system using the Hospital Management dataset. By integrating patients, appointments, treatments, and billing data, we created a realistic representation of hospital workflows that can be adapted to the South African NHI context.
